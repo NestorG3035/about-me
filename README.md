@@ -18,5 +18,5 @@
  5. Lunch
  6. AP Spanish
  7. English 5
- 8. Digital Phoography
+ 8. Digital Photography
 ---
