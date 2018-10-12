@@ -10,5 +10,5 @@ I was born in Dominican republic, November 22, 2001. I moved to the U.S. with my
 My dad left me with my grandma in NJ so he could go work in NY. My gradnmother took care of me until I was 7.
 I began living with my dad after that. 
 ##### Schedule:
-Period 1 I have Algebra 2, Period 2 I have Software Engineering 5, Period 3 I have Physics 1, period 4 I have the most boring class ever (AP US History),  
+####Period 1 I have Algebra 2, Period 2 I have Software Engineering 5, Period 3 I have Physics 1, period 4 I have the most boring class ever (AP US History),  
 ---
