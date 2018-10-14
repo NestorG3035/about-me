@@ -7,7 +7,10 @@
 3. ##### School  
    I go to High School of Telecommunication Arts and Technology (HSTAT)  
 4. ##### Bio  
-    I was born in Dominican republic, November 22, 2001. I moved to the U.S. with my dad in 2003. My dad left me with my grandma in NJ so he could go work in NY. My gradnmother took care of me until I was 7.  I began living with my dad after that.   
+    I was born in Dominican republic, November 22, 2001.  
+I moved to the U.S. with my dad in 2003.  
+My dad left me with my grandma in NJ so he could go work in NY.  
+My gradnmother took care of me until I was 7.  I began living with my dad after that.   
 ---
 ##### **Schedule** 
 ---
