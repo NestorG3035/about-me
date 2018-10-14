@@ -10,17 +10,19 @@
     I was born in Dominican republic, November 22, 2001.  
 I moved to the U.S. with my dad in 2003.  
 My dad left me with my grandma in NJ so he could go work in NY.  
-My gradnmother took care of me until I was 7.  I began living with my dad after that.   
+My gradnmother took care of me until I was 7.  
+I began living with my dad after that.   
 ---
 ##### **Schedule** 
 ---
- 1. Algebra 2   
- 2. Software Engineering 5
- 3. Physics 1 
- 4. The most boring class ever (AP US History)
- 5. Lunch
- 6. AP Spanish
- 7. English 5
- 8. Digital Photography
+ *  Algebra 2   
+ * Software Engineering 5
+ * Physics 1 
+ * The most boring class ever
+    * (AP US History)
+ * Lunch
+ * AP Spanish
+ * English 5
+ * Digital Photography
 ---
 This is my [SEP Portfolio](https://sites.google.com/a/hstat.org/nestorg3035--sep10/)
